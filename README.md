@@ -12,7 +12,7 @@ Fast Finder is a React-based web application that allows users to search for cou
 - Responsive and user-friendly design.
 
 ## Screenshots 📸
-![Fast Finder Screenshot](fast-finder SS.png)
+![Fast Finder Screenshot](https://github.com/PavanKumarc8/Pavan-s-fast-finder-Search-Bar/blob/main/fast-finder%20SS.png)
 
 ## Demo 🎥
 Check out the live version here: [Fast Finder on Netlify](https://pavan-fast-finder-search-bar.netlify.app/)
