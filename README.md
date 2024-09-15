@@ -1,6 +1,6 @@
 # Fast Finder 🌍🔍
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge/status)](https://app.netlify.com/sites/your-site/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d1a529dc-2448-4eb3-9bbb-84476358148e/deploy-status)](https://app.netlify.com/sites/pavan-fast-finder-search-bar/deploys)
 
 Fast Finder is a React-based web application that allows users to search for countries by their name or capital. It provides detailed information such as the country's capital, population, official languages, and currency. The app also features an autocomplete search bar for enhanced user experience.
 
@@ -12,10 +12,10 @@ Fast Finder is a React-based web application that allows users to search for cou
 - Responsive and user-friendly design.
 
 ## Screenshots 📸
-![Fast Finder Screenshot](path-to-screenshot)
+![Fast Finder Screenshot](fast-finder SS.png)
 
 ## Demo 🎥
-Check out the live version here: [Fast Finder on Netlify](https://your-netlify-app-link.netlify.app)
+Check out the live version here: [Fast Finder on Netlify](https://pavan-fast-finder-search-bar.netlify.app/)
 
 ## Getting Started 🚀
 
