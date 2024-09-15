@@ -97,8 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
-```
+Made with ❤️ by [Pavan Kumar Pattipu](https://github.com/PavanKumarc8)
 
 ### Key Sections:
 - **Title and Description**: Includes a short, clear description of the app.
@@ -109,5 +108,4 @@ Made with ❤️ by [Your Name](https://github.com/your-username)
 - **File Structure**: Shows how the app is organized.
 - **Contributing**: Invites others to contribute.
 - **License**: If you're open-sourcing the project, mention the license.
-  
-Make sure to adjust any specific links (Netlify, GitHub) and paths as needed!
+
